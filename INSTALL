@@ -1,0 +1,9 @@
+Building Cryptonnect
+
+See doc/readme-qt.rst for instructions on building Cryptonnect QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cryptonnect.
+
+See doc/build-*.txt for instructions on building cryptonnectd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cryptonnect.
