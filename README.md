@@ -8,6 +8,7 @@ Copyright (c) 2016-2017 The OrozuCoin Core developers
 License
 
 OrozuCoin is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
+
 OrozuCoin Specifications
 
 Coin Type : POW/POS Hybrid
@@ -42,7 +43,7 @@ For Second 6 Months  :8%
 There After :5%
 
 
-Intro
+Introduction
 
  Orozu can be minted by computational devices including personal computers and portable devices through PoW and PoS. Orozu is a hybrid PoW/PoS-based cryptocurrency that integrates two mechanisms: proof-of-work (PoW) and proof-of-stake (PoS) protocols. OrozuCoin is a CPU & GPU only. 
 
