@@ -62,15 +62,22 @@ At the source location, create .orozucoin folder and make a orozucoin.conf file
 Paste these in the config file 
 
 rpcuser=Your_UserName
+
 rpcpassword=Your_Password
+
 rpcallowip=127.0.0.1
+
 rpcport=29293
+
 listen=1
+
 server=1
+
 addnode=13.228.160.74
+
 addnode=52.76.125.34
 
-Open Orozu wallet by double click on Orozucoin-qt. 
+*Open Orozu wallet by double click on Orozucoin-qt. 
 
 3. Setup Miner Orozu Coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does. 
 
