@@ -74,5 +74,5 @@ Open Orozu wallet by double click on Orozucoin-qt.
 
 3. Setup Miner Orozu Coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does. 
 
-Click <a herf="https://bitcointalk.org/index.php?topic=55038.msg654850#msg654850">here</a> and download zip file Extract the tar.z file Simply open terminal and hit command minerd --url=http://127.0.0.1:29293 --userpass=username:password
+Click here ( https://bitcointalk.org/index.php?topic=55038.msg654850#msg654850 ) and download zip file Extract the tar.z file Simply open terminal and hit command minerd --url=http://127.0.0.1:29293 --userpass=username:password
 
