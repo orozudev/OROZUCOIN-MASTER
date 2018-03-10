@@ -53,3 +53,26 @@ explorer: http://www.Orozu.io
 
 Bitcointalk thread: https://bitcointalk.org/index.php?topic=2956471.0
 
+=========Orozu coin Mining Guide:- ================
+
+1. Download Orozu Wallet for your Operating System. 
+2. Configure 
+
+At the source location, create .orozucoin folder and make a orozucoin.conf file 
+Paste these in the config file 
+
+rpcuser=Your_UserName
+rpcpassword=Your_Password
+rpcallowip=127.0.0.1
+rpcport=29293
+listen=1
+server=1
+addnode=13.228.160.74
+addnode=52.76.125.34
+
+Open Orozu wallet by double click on Orozucoin-qt. 
+
+3. Setup Miner Orozu Coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does. 
+
+Click <a herf="https://bitcointalk.org/index.php?topic=55038.msg654850#msg654850">here</a> and download zip file Extract the tar.z file Simply open terminal and hit command minerd --url=http://127.0.0.1:29293 --userpass=username:password
+
